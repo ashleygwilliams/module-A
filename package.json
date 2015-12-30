@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/ashleygwilliams/module-A",
   "dependencies": {
-    "mod-b": "^1.0.0"
+    "mod-b": "^2.0.0"
   }
 }
